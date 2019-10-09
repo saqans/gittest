@@ -17,6 +17,5 @@ feature2()
 // Code for feature2
 
 
-}:wq
-:q
+}
 
